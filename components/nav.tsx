@@ -18,3 +18,5 @@ const Nav: FunctionComponent = () => {
         </div>
     )
 }
+
+export default Nav
