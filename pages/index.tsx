@@ -1,9 +1,10 @@
+import type {NextPage} from 'next'
 import Nav from '../components/Nav'
 import ToggleSwitch from '../components/toggle'
 import Head from 'next/head'
 import Image from 'next/image'
 
-const Home = () => {
+const Home: NextPage = () => {
     return (
         <div>
             <Head>
