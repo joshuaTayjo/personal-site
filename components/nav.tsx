@@ -1,6 +1,7 @@
 import Link from 'next/link';
+import {FunctionComponent} from 'react';
 
-export default function Nav() {
+const Nav: FunctionComponent = () => {
     return (
         <div className={'w-full px-2'}>
             <ul className={'flex'}>

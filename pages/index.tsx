@@ -1,5 +1,5 @@
 import type {NextPage} from 'next'
-import Nav from '../components/Nav'
+import Nav from '../components/nav'
 import ToggleSwitch from '../components/toggle'
 import Head from 'next/head'
 import Image from 'next/image'
